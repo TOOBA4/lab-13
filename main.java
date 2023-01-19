@@ -1,9 +1,9 @@
 public class Main {
 public static void main(String[] args) 
 { Task obj = new Task(); obj.withdrawn("Mahin", 40000);
-obj.deposit("Aamna", 95000);
-obj.withdrawn("Hammad", 40000);
-obj.deposit("Hassan", 65000);
+obj.deposit("aimen ", 95000);
+obj.withdrawn("tooba", 40000);
+obj.deposit("sadia", 65000);
 }
 }
 
